@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @SamyT-code
 - 👀 I’m interested in Data Science and web development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning MySQL as well as C# and .NET framework
+- 💞️ I’m looking for a 4 months Co-op placement for Summer 2022
+- 📫 How to reach me:
+      - School email: stoua026@uottawa.ca
+      - Personal email: samytouabi@gmail.com
+      - Mobile Phone number: (613) 403-3244
 
 <!---
 SamyT-code/SamyT-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
