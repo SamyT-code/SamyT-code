@@ -10,7 +10,7 @@
 
 
 [![Samy'sGitHub stats](https://github-readme-stats.vercel.app/api?username=SamyT-code&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamyT-code&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamyT-code&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 SamyT-code/SamyT-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
