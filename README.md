@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @SamyT-code
 - 👀 I’m interested in web development and video game programming
 - 🌱 I’m currently learning MySQL as well as C# and .NET framework
-- 💞️ I’m looking for a 3 months Co-op placement for Winter 2023
+- 💞️ I’m looking for a 4 months Co-op placement for Summer 2024
 - 📫 How to reach me:
       - School email: stoua026@uottawa.ca
       - Personal email: samytouabi@gmail.com
-      - Mobile Phone number: (613) 403-3244
+      - Mobile Phone number: (613) 408-3244
 
 
 <!---
