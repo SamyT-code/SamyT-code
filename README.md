@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @SamyT-code
-- 👀 I’m interested in web development and video game programming
-- 🌱 I’m currently learning React as well as TypeScript
-- 💞️ I’m looking for a 4 months Co-op placement for Summer 2024
+- 👀 I’m interested in web development and networking
+- 🌱 I’m currently learning C++ and Arabic
+- 💞️ I’m looking for work opportunities for September 2025
 - 📫 How to reach me:
-      - School email: stoua026@uottawa.ca
       - Personal email: samytouabi@gmail.com
       - Mobile Phone number: (613) 408-3244
 
