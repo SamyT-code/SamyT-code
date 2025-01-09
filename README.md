@@ -4,7 +4,6 @@
 - 💞️ I’m looking for work opportunities for September 2025
 - 📫 How to reach me:
       - Personal email: samytouabi@gmail.com
-      - Mobile Phone number: (613) 408-3244
 
 
 <!---
